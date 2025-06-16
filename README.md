@@ -29,5 +29,5 @@ install.packages(c("rgbif", "sf", "terra", "dplyr", "ENMeval", "maxnet", "ggplot
 
 ## How to Run
 
-1. Run `jaguar_model.R` from RStudio.
-2. Visuals and maps will be saved in `figures/` and `output/`.
+1. Run `Panthera_onca_habitat_modeling.R` from RStudio.
+2. Visuals and maps will be saved in `Mpas/` and `Report/`.
